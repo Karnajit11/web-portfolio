@@ -1,0 +1,20 @@
+body {
+  font-family: "Akaya Telivigala", cursive;
+}
+h1{
+    font-size: 50px;
+}
+
+.name-highlight{
+    color: orange;
+}
+.top-header{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.top-header img{
+    width: 100%;
+}
